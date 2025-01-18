@@ -5,7 +5,7 @@ from aiogram.utils import executor
 from aiogram.dispatcher.filters import Command
 import os
 
-API_TOKEN = "7511099944:AAHCnAGmTibtu1yTUemniJlF9iVAEz1Wpp0"
+API_TOKEN = ""
 CHANNEL_USERNAME = "@texna_uzb"
 
 logging.basicConfig(level=logging.INFO)
